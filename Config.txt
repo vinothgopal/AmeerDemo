@@ -3,3 +3,4 @@
 *** Variables ***
 ${url}     http://demo.guru99.com/test/newtours/
 ${browser}    chrome
+${a}		2
