@@ -5,4 +5,5 @@ ${url}     http://demo.guru99.com/test/newtours/
 ${browser}    chrome
 vinoth changes here
 ${a}		2
+${b}		4
 
