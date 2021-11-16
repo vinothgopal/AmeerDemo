@@ -6,4 +6,5 @@ ${browser}    chrome
 vinoth changes here
 ${a}		2
 ${b}		4
+${c}		6
 
