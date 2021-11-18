@@ -1,9 +1,12 @@
-*** Setting ***
+*** Settings ***
 
 *** Variables ***
-${url}     http://demo.guru99.com/test/newtours/
-${browser}    chrome
-vinoth changes here
-${a}		2
-${b}		4
+${url}    https://www.rahulshettyacademy.com/#/index
+${browser}   chrome
 
+#Login credentials
+${username}  ameer@gmail.com
+${password}  Hiran@18
+
+#Test data
+${TestData}  ${CURDIR}\\05_TestData\\Test_Data.xlsx
