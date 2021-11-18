@@ -1,8 +1,10 @@
 *** Settings ***
 
 *** Variables ***
+
 ${url}    https://www.rahulshettyacademy.com/#/index
 ${browser}   chrome
+
 
 #Login credentials
 ${username}  ameer@gmail.com
